@@ -31,4 +31,4 @@ namespace ConsoleApp1
 
 ![Joe Biden][logo]
 
-[logo]: 
+[logo]: https://github.com/connor-keeney/Keeney-Challenge-Git-GitHub-and-Markdown/blob/master/biden-bro.jpg
