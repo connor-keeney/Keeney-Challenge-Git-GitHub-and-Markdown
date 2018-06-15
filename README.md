@@ -7,10 +7,10 @@
 1. It is blander than sand
 2. Some say it is quite worthless
 3. Bottom Text
-*To add some worth, I'd like to say
-*That I am the meme machine
-*I look at memes everyday
-*there are good memes,
-**and there are bad memes**
-*I catch the memes*
-~~I trade the memes~~
+* To add some worth, I'd like to say
+* That I am the meme machine
+* I look at memes everyday
+* there are good memes,
+1. **and there are bad memes**
+1. *I catch the memes*
+2. ~~I trade the memes~~
