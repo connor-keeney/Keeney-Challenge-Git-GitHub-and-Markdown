@@ -28,3 +28,7 @@ namespace ConsoleApp1
     }
 }
 ```
+
+![Joe Biden][logo]
+
+[logo]: 
