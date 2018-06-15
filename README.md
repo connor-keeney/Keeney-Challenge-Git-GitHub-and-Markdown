@@ -13,5 +13,8 @@
 * there are good memes,
 1. **and there are bad memes**
 1. *I catch the memes*
-2. ~~I trade the memes~~
-[https://github.com/connor-keeney/Keeney-Challenge-Git-GitHub-and-Markdown/blob/master/Test.md]
+2. ~~I trade the memes~~ 
+ [https://github.com/connor-keeney/Keeney-Challenge-Git-GitHub-and-Markdown/blob/master/Test.md]
+text | text | text 
+-----|------|-----
+text | text | text
